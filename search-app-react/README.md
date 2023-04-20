@@ -28,7 +28,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4c132a-3d74-43fd-8e4d-1a1f05453814/deploy-status)](https://app.netlify.com/sites/heartfelt-fox-d291df/deploys)
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
